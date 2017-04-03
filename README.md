@@ -2,4 +2,4 @@
 
 <h2>Assignments | IT 320</h2>
 
-erbogart28.github.io/IT320
+<ahref = "erbogart28.github.io/IT320">
